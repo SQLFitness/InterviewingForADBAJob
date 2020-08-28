@@ -1,2 +1,2 @@
 # InterviewingForADBAJob
-Files from the October 2017 SLC SQL Users Group meeting
+Files from the August 2020 SLC Saturday #997 
